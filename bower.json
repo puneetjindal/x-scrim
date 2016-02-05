@@ -1,0 +1,13 @@
+{
+  "name": "x-scrim",
+  "homepage": "https://github.com/puneetjindal/x-scrim",
+  "_release": "9aabc0ee32",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "9aabc0ee32317fe0671c5c297a19153505e41da1"
+  },
+  "_source": "git://github.com/puneetjindal/x-scrim.git",
+  "_target": "master",
+  "_originalSource": "puneetjindal/x-scrim"
+}
